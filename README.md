@@ -1,4 +1,4 @@
 # Desafio.Github_Santander
-Desafio de projeto sobre GIT/GITHUB
+Repositório criado para o desafio de projeto.
 ## Links uteis
-[sintaxe basíca markdown](https://www.markdownguide.org/getting-started/)
+[Sintaxe basica markdown](https://www.markdownguide.org/getting-started/)
